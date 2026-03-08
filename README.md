@@ -1,4 +1,4 @@
-# � trackfolio
+# trackfolio
 
 A premium, high-performance portfolio tracking application built with **Streamlit**, **Plotly**, and **yfinance**. It supports multi-currency assets (Thai Stocks, International Stocks, and Cash) with advanced risk analytics and beautiful dynamic visualizations.
 
