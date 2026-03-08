@@ -1,0 +1,21 @@
+# Streamlit
+.streamlit/
+static/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+build/
+dist/
+
+# Application Data (PRIVATE - DO NOT UPLOAD)
+portfolio_ledger.csv
+portfolio_backup_*.csv
+
+# OS
+.DS_Store
+Thumbs.db
